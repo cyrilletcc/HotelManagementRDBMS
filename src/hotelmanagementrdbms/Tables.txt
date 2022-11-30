@@ -1,0 +1,10 @@
+department
+employee
+guest
+room
+occupies
+supplier
+facilities
+recreation
+diningroom
+menu
